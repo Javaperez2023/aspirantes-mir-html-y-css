@@ -1,0 +1,77 @@
+@media screen and (min-width: 500px){
+
+*{
+	font-family: 'oswald', sans-serif;
+}
+
+form{
+	background: linear-gradient(#0099ff, #009900);
+	width: 300px;
+	padding: 20px;
+	margin:0 auto;
+	border-radius: 20px;
+	box-shadow: 20px 20px 80px black;
+}
+.form_in{
+	padding: 7px;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 9px 0;
+	border:none;
+}
+.button{
+	padding: 5px 15px 5px 15px;
+	text-align: right;
+	border: none;
+}
+fieldset{
+	border: none;
+}
+
+h1{
+	color:	white;
+}
+
+.form{
+	color:	white;
+}
+}
+
+@media screen and (max-width: 500px){
+*{
+	font-family: 'oswald', sans-serif;
+}
+
+form{
+	background: linear-gradient(#0099ff, #009900);
+	width: 100%;
+	padding: 20px;
+	margin:0 auto;
+	border-radius: 20px;
+	box-shadow: 20px 20px 80px black;
+}
+.form_in{
+	padding: 7px;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 9px 0;
+	border:none;
+}
+.button{
+	padding: 5px 15px 5px 15px;
+	text-align: right;
+	border: none;
+}
+fieldset{
+	border: none;
+}
+
+h1{
+	color:	white;
+}
+
+.form{
+	color:	white;
+}
+}
+}
